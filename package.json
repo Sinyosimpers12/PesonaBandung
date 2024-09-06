@@ -1,0 +1,24 @@
+{
+  "name": "pesonabandung",
+  "version": "1.0.0",
+  "description": "CapsStone Project ,Team Authtor Sinyo Simpers Soba ,Fajri Abdul Ghani,Rafael Rinta Primadani",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "http-server -p 8080 -c-1",
+    "serve": "http-server -o",
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fajri408/capstone_pesona_bandung.git"
+  },
+  "keywords": [
+    "Bandung"
+  ],
+  "author": "Dicoding Team Sinyo , Fajri , Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fajri408/capstone_pesona_bandung/issues"
+  },
+  "homepage": "https://github.com/Fajri408/capstone_pesona_bandung#readme"
+}
